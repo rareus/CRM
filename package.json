@@ -11,7 +11,7 @@
     "dev-server": "nodemon src/index.js",
     "nodemon": "nodemon --exec node src/index.js"
   },
-  "proxy": "https://crm-5gw4.onrender.com",
+  "proxy": "https://crm-jeig.onrender.com",
   "keywords": [],
   "author": "Abhinav Raj",
   "license": "ISC",
